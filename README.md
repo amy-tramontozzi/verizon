@@ -1,1 +1,1 @@
-Develop a Random Forest model with 97% precision and 94% recall to identify customer loan default probability
+Develop a Random Forest model with 94% precision and 97% recall to identify customer loan default probability
